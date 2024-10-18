@@ -1,1 +1,1 @@
-# practive leetcode everyday 
+# practice leetcode everyday 
